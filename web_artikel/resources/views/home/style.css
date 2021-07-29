@@ -1,0 +1,12 @@
+.jumbotron {
+    background-image: url(gambar/2.jpg);
+    background-size: cover;
+}
+
+.jumbotron p {
+    color: white;
+}
+
+.jumbotron h1 {
+    color: white;
+}
